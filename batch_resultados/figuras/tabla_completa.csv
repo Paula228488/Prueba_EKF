@@ -1,0 +1,397 @@
+n_anchors,escenario_error,error_label,kind,magnitude,magnitude2,mean_error_m,mean_error_std,rms_error_m,max_error_m
+3,bias_neg_0p02,Bias (−),bias_neg,2.000000e-02,,3.474368e-02,5.943918e-03,3.822913e-02,7.692000e-02
+3,bias_neg_0p05,Bias (−),bias_neg,5.000000e-02,,8.482860e-02,9.609486e-03,8.972951e-02,1.442336e-01
+3,bias_neg_0p1,Bias (−),bias_neg,1.000000e-01,,1.658506e-01,1.204925e-02,1.718953e-01,2.479538e-01
+3,bias_pos_0p02,Bias (+),bias_pos,2.000000e-02,,3.827068e-02,1.369799e-02,4.591390e-02,9.486702e-02
+3,bias_pos_0p05,Bias (+),bias_pos,5.000000e-02,,8.849858e-02,2.152455e-02,9.908607e-02,1.789158e-01
+3,bias_pos_0p1,Bias (+),bias_pos,1.000000e-01,,1.668729e-01,2.763399e-02,1.793553e-01,2.943798e-01
+3,combo_biasn0p02_gausss0p02,Bias (−) + Gaussian,combo_bias_neg_gauss,2.000000e-02,2.000000e-02,4.101374e-02,6.029956e-03,4.365556e-02,8.232725e-02
+3,combo_biasn0p02_gausss0p05,Bias (−) + Gaussian,combo_bias_neg_gauss,2.000000e-02,5.000000e-02,5.724113e-02,8.906536e-03,6.506815e-02,1.490421e-01
+3,combo_biasn0p05_gausss0p02,Bias (−) + Gaussian,combo_bias_neg_gauss,5.000000e-02,2.000000e-02,8.499193e-02,5.390998e-03,8.901655e-02,1.498483e-01
+3,combo_biasn0p05_gausss0p05,Bias (−) + Gaussian,combo_bias_neg_gauss,5.000000e-02,5.000000e-02,9.656243e-02,1.225094e-02,1.017733e-01,1.812268e-01
+3,combo_biasn0p02_unifsym0p05,Bias (−) + Uniform,combo_bias_neg_unif,2.000000e-02,5.000000e-02,3.797566e-02,3.996115e-03,4.031603e-02,7.240635e-02
+3,combo_biasn0p02_unifsym0p1,Bias (−) + Uniform,combo_bias_neg_unif,2.000000e-02,1.000000e-01,4.524659e-02,5.372244e-03,4.882683e-02,9.449979e-02
+3,combo_biasn0p05_unifsym0p05,Bias (−) + Uniform,combo_bias_neg_unif,5.000000e-02,5.000000e-02,8.349535e-02,3.524414e-03,8.714531e-02,1.434110e-01
+3,combo_biasn0p05_unifsym0p1,Bias (−) + Uniform,combo_bias_neg_unif,5.000000e-02,1.000000e-01,8.590467e-02,7.626410e-03,8.956087e-02,1.484818e-01
+3,combo_biasp0p02_gausss0p02,Bias (+) + Gaussian,combo_bias_pos_gauss,2.000000e-02,2.000000e-02,4.296174e-02,8.267595e-03,4.933848e-02,1.097536e-01
+3,combo_biasp0p02_gausss0p05,Bias (+) + Gaussian,combo_bias_pos_gauss,2.000000e-02,5.000000e-02,5.885835e-02,1.048498e-02,6.736902e-02,1.575717e-01
+3,combo_biasp0p05_gausss0p02,Bias (+) + Gaussian,combo_bias_pos_gauss,5.000000e-02,2.000000e-02,8.800623e-02,1.510010e-02,9.691817e-02,1.840769e-01
+3,combo_biasp0p05_gausss0p05,Bias (+) + Gaussian,combo_bias_pos_gauss,5.000000e-02,5.000000e-02,1.003887e-01,1.564505e-02,1.078925e-01,2.064853e-01
+3,combo_biasp0p02_unifsym0p05,Bias (+) + Uniform,combo_bias_pos_unif,2.000000e-02,5.000000e-02,3.948907e-02,7.598126e-03,4.452649e-02,9.537046e-02
+3,combo_biasp0p02_unifsym0p1,Bias (+) + Uniform,combo_bias_pos_unif,2.000000e-02,1.000000e-01,4.510754e-02,6.273971e-03,4.967243e-02,1.094445e-01
+3,combo_biasp0p05_unifsym0p05,Bias (+) + Uniform,combo_bias_pos_unif,5.000000e-02,5.000000e-02,8.895223e-02,1.592106e-02,9.825848e-02,1.877037e-01
+3,combo_biasp0p05_unifsym0p1,Bias (+) + Uniform,combo_bias_pos_unif,5.000000e-02,1.000000e-01,9.154988e-02,1.355807e-02,9.905464e-02,1.839179e-01
+3,combo_gausss0p02_unifsym0p05,Gaussian + Uniform,combo_gauss_unif,2.000000e-02,5.000000e-02,2.774816e-02,3.398613e-03,3.131529e-02,7.118881e-02
+3,combo_gausss0p02_unifsym0p1,Gaussian + Uniform,combo_gauss_unif,2.000000e-02,1.000000e-01,3.453760e-02,5.295876e-03,3.950262e-02,9.550073e-02
+3,combo_gausss0p05_unifsym0p05,Gaussian + Uniform,combo_gauss_unif,5.000000e-02,5.000000e-02,4.946639e-02,9.273178e-03,5.755274e-02,1.354852e-01
+3,combo_gausss0p05_unifsym0p1,Gaussian + Uniform,combo_gauss_unif,5.000000e-02,1.000000e-01,5.535108e-02,7.837114e-03,6.528597e-02,1.743103e-01
+3,gauss_s0p02,Gaussian noise,gauss,2.000000e-02,,2.326790e-02,2.229773e-03,2.644957e-02,6.541261e-02
+3,gauss_s0p05,Gaussian noise,gauss,5.000000e-02,,4.576060e-02,5.840233e-03,5.185898e-02,1.271516e-01
+3,gauss_s0p1,Gaussian noise,gauss,1.000000e-01,,8.631060e-02,1.484483e-02,1.019663e-01,2.555388e-01
+3,sin_error,No error,none,,,2.918663e-15,4.181449e-15,2.148402e-14,1.657826e-13
+3,unif_neg_0p05,Uniform noise (negative only),unif_neg,5.000000e-02,,4.505248e-02,4.280625e-03,4.769416e-02,8.796300e-02
+3,unif_neg_0p1,Uniform noise (negative only),unif_neg,1.000000e-01,,8.613858e-02,6.534072e-03,8.930902e-02,1.444979e-01
+3,unif_neg_0p2,Uniform noise (negative only),unif_neg,2.000000e-01,,1.726599e-01,1.331114e-02,1.793266e-01,2.907237e-01
+3,unif_pos_0p05,Uniform noise (positive only),unif_pos,5.000000e-02,,4.962752e-02,1.145808e-02,5.625987e-02,1.176505e-01
+3,unif_pos_0p1,Uniform noise (positive only),unif_pos,1.000000e-01,,9.140015e-02,1.561803e-02,9.931761e-02,1.911148e-01
+3,unif_pos_0p2,Uniform noise (positive only),unif_pos,2.000000e-01,,1.764157e-01,2.050998e-02,1.865128e-01,3.241392e-01
+3,unif_sym_0p05,Uniform noise (symmetric),unif_sym,5.000000e-02,,1.847483e-02,1.630918e-03,2.032133e-02,4.979412e-02
+3,unif_sym_0p1,Uniform noise (symmetric),unif_sym,1.000000e-01,,3.122158e-02,3.666098e-03,3.525729e-02,8.372047e-02
+3,unif_sym_0p2,Uniform noise (symmetric),unif_sym,2.000000e-01,,5.560038e-02,5.593662e-03,6.392388e-02,1.480484e-01
+3,heter_A1-biasN_A2-biasN_A3-biasN_tag-none,unknown,unknown,,,8.482860e-02,9.609486e-03,8.972951e-02,1.442336e-01
+3,heter_A1-biasN_A2-biasN_A3-gaussN_tag-unifN,unknown,unknown,,,1.571325e-01,1.421514e-02,1.624495e-01,2.427423e-01
+3,heter_A1-biasN_A2-biasP_A3-unifP_tag-gauss0,unknown,unknown,,,1.188698e-01,9.009188e-03,1.261462e-01,2.351637e-01
+3,heter_A1-biasN_A2-gauss0_A3-gauss0_tag-biasN,unknown,unknown,,,1.385831e-01,8.726505e-03,1.418085e-01,2.138311e-01
+3,heter_A1-biasN_A2-gauss0_A3-gauss0_tag-gaussN,unknown,unknown,,,1.208740e-01,1.576469e-02,1.279451e-01,2.208146e-01
+3,heter_A1-biasN_A2-gaussN_A3-gauss0_tag-gauss0,unknown,unknown,,,8.768005e-02,1.219414e-02,9.738612e-02,2.122966e-01
+3,heter_A1-biasN_A2-unifN_A3-gauss0_tag-unifN,unknown,unknown,,,1.473055e-01,8.774919e-03,1.516734e-01,2.298181e-01
+3,heter_A1-biasN_A2-unifP_A3-unifN_tag-unifS,unknown,unknown,,,1.444729e-01,1.218244e-02,1.519122e-01,2.500074e-01
+3,heter_A1-biasN_A2-unifS_A3-biasP_tag-gauss0,unknown,unknown,,,9.682440e-02,2.162075e-02,1.055699e-01,2.243519e-01
+3,heter_A1-biasP_A2-biasP_A3-gauss0_tag-gaussN,unknown,unknown,,,7.255367e-02,1.093690e-02,8.112615e-02,1.612396e-01
+3,heter_A1-biasP_A2-gauss0_A3-unifN_tag-gauss0,unknown,unknown,,,1.011502e-01,2.041499e-02,1.094902e-01,2.220636e-01
+3,heter_A1-gauss0_A2-biasN_A3-biasN_tag-gaussN,unknown,unknown,,,1.213268e-01,1.025309e-02,1.258144e-01,2.294938e-01
+3,heter_A1-gauss0_A2-gaussN_A3-biasN_tag-gaussP,unknown,unknown,,,7.480971e-02,1.637761e-02,8.467326e-02,1.723253e-01
+3,heter_A1-gauss0_A2-gaussN_A3-unifN_tag-biasN,unknown,unknown,,,1.325668e-01,7.205346e-03,1.366876e-01,2.165823e-01
+3,heter_A1-gauss0_A2-none_A3-biasN_tag-unifP,unknown,unknown,,,8.632681e-02,1.066806e-02,9.240812e-02,1.852511e-01
+3,heter_A1-gauss0_A2-none_A3-gaussN_tag-unifS,unknown,unknown,,,5.940262e-02,9.222363e-03,6.953263e-02,1.693084e-01
+3,heter_A1-gaussN_A2-biasP_A3-biasP_tag-gauss0,unknown,unknown,,,1.012351e-01,1.413629e-02,1.078720e-01,2.115661e-01
+3,heter_A1-gaussN_A2-biasP_A3-unifN_tag-gauss0,unknown,unknown,,,1.219655e-01,1.224912e-02,1.312381e-01,2.398919e-01
+3,heter_A1-gaussN_A2-unifN_A3-gaussP_tag-biasP,unknown,unknown,,,1.127931e-01,1.300910e-02,1.184739e-01,2.148408e-01
+3,heter_A1-gaussP_A2-biasN_A3-gaussP_tag-gaussN,unknown,unknown,,,1.090914e-01,1.098506e-02,1.157543e-01,2.073434e-01
+3,heter_A1-gaussP_A2-biasP_A3-unifS_tag-gaussP,unknown,unknown,,,1.146625e-01,1.271916e-02,1.221003e-01,2.453617e-01
+3,heter_A1-gaussP_A2-gauss0_A3-unifP_tag-biasN,unknown,unknown,,,6.847970e-02,1.160718e-02,7.422865e-02,1.536942e-01
+3,heter_A1-gaussP_A2-none_A3-gaussN_tag-gauss0,unknown,unknown,,,7.464379e-02,1.197425e-02,8.432749e-02,1.852490e-01
+3,heter_A1-gaussP_A2-unifN_A3-gauss0_tag-gauss0,unknown,unknown,,,1.016778e-01,1.237803e-02,1.091858e-01,2.091476e-01
+3,heter_A1-gaussP_A2-unifN_A3-gaussP_tag-unifS,unknown,unknown,,,1.185343e-01,1.503383e-02,1.249734e-01,2.114708e-01
+3,heter_A1-gaussP_A2-unifP_A3-gaussN_tag-gauss0,unknown,unknown,,,9.669692e-02,1.861788e-02,1.041421e-01,2.102380e-01
+3,heter_A1-none_A2-gauss0_A3-unifN_tag-unifN,unknown,unknown,,,1.319727e-01,8.094708e-03,1.361963e-01,2.167986e-01
+3,heter_A1-none_A2-gauss0_A3-unifS_tag-biasP,unknown,unknown,,,8.977253e-02,1.419730e-02,9.749077e-02,1.855137e-01
+3,heter_A1-none_A2-gaussN_A3-biasP_tag-gauss0,unknown,unknown,,,9.593865e-02,8.732552e-03,1.041266e-01,2.072499e-01
+3,heter_A1-none_A2-gaussN_A3-gauss0_tag-gaussN,unknown,unknown,,,9.179669e-02,9.062584e-03,9.844562e-02,1.878540e-01
+3,heter_A1-none_A2-gaussP_A3-gaussN_tag-unifN,unknown,unknown,,,1.198924e-01,1.083411e-02,1.261219e-01,2.164461e-01
+3,heter_A1-none_A2-gaussP_A3-none_tag-unifN,unknown,unknown,,,9.304199e-02,1.043945e-02,9.819147e-02,1.772188e-01
+3,heter_A1-none_A2-unifP_A3-unifP_tag-gaussP,unknown,unknown,,,1.222425e-01,9.620991e-03,1.287616e-01,2.341171e-01
+3,heter_A1-unifN_A2-biasN_A3-gaussP_tag-unifS,unknown,unknown,,,9.693913e-02,1.196961e-02,1.055572e-01,2.124813e-01
+3,heter_A1-unifN_A2-gaussN_A3-gaussN_tag-biasN,unknown,unknown,,,1.502339e-01,1.216660e-02,1.554975e-01,2.412561e-01
+3,heter_A1-unifN_A2-gaussP_A3-biasN_tag-biasP,unknown,unknown,,,1.057403e-01,1.378268e-02,1.117834e-01,1.948124e-01
+3,heter_A1-unifN_A2-gaussP_A3-unifP_tag-unifS,unknown,unknown,,,1.042429e-01,1.497536e-02,1.111925e-01,2.126792e-01
+3,heter_A1-unifN_A2-none_A3-unifN_tag-gauss0,unknown,unknown,,,1.118550e-01,1.560510e-02,1.196117e-01,2.065947e-01
+3,heter_A1-unifN_A2-none_A3-unifP_tag-unifP,unknown,unknown,,,1.232393e-01,1.720570e-02,1.288660e-01,2.337227e-01
+3,heter_A1-unifN_A2-none_A3-unifS_tag-biasN,unknown,unknown,,,1.358522e-01,7.326189e-03,1.403600e-01,2.202873e-01
+3,heter_A1-unifN_A2-unifN_A3-unifP_tag-unifS,unknown,unknown,,,1.148868e-01,1.414530e-02,1.241388e-01,2.341097e-01
+3,heter_A1-unifN_A2-unifP_A3-unifN_tag-unifS,unknown,unknown,,,1.399532e-01,1.108476e-02,1.480297e-01,2.469405e-01
+3,heter_A1-unifP_A2-biasN_A3-gauss0_tag-biasN,unknown,unknown,,,1.290860e-01,9.329959e-03,1.313431e-01,1.918864e-01
+3,heter_A1-unifP_A2-biasN_A3-unifN_tag-biasN,unknown,unknown,,,1.444353e-01,1.408970e-02,1.465683e-01,2.116769e-01
+3,heter_A1-unifP_A2-biasP_A3-gaussN_tag-unifS,unknown,unknown,,,9.950619e-02,7.273726e-03,1.062564e-01,2.094881e-01
+3,heter_A1-unifP_A2-gaussN_A3-unifP_tag-biasN,unknown,unknown,,,9.757481e-02,1.107570e-02,1.024987e-01,1.720757e-01
+3,heter_A1-unifP_A2-gaussN_A3-unifP_tag-gaussP,unknown,unknown,,,1.543072e-01,2.627088e-02,1.615174e-01,2.615786e-01
+3,heter_A1-unifP_A2-gaussP_A3-biasP_tag-gaussP,unknown,unknown,,,1.401137e-01,1.276098e-02,1.495939e-01,2.733148e-01
+3,heter_A1-unifP_A2-gaussP_A3-unifP_tag-unifP,unknown,unknown,,,1.699495e-01,2.072224e-02,1.800654e-01,3.149546e-01
+3,heter_A1-unifP_A2-none_A3-biasP_tag-gauss0,unknown,unknown,,,1.037740e-01,1.725600e-02,1.112674e-01,2.054267e-01
+3,heter_A1-unifP_A2-unifN_A3-biasP_tag-unifN,unknown,unknown,,,1.287657e-01,1.124324e-02,1.338224e-01,2.201632e-01
+3,heter_A1-unifP_A2-unifN_A3-unifS_tag-biasP,unknown,unknown,,,1.565401e-01,1.921402e-02,1.636173e-01,2.674535e-01
+3,heter_A1-unifP_A2-unifS_A3-biasN_tag-unifP,unknown,unknown,,,1.346577e-01,1.731300e-02,1.422131e-01,2.742137e-01
+3,heter_A1-unifP_A2-unifS_A3-gaussN_tag-biasP,unknown,unknown,,,1.300021e-01,1.533310e-02,1.366048e-01,2.552576e-01
+3,heter_A1-unifS_A2-gaussN_A3-gaussP_tag-unifP,unknown,unknown,,,1.241866e-01,1.768575e-02,1.327123e-01,2.420903e-01
+3,heter_A1-unifS_A2-none_A3-none_tag-gauss0,unknown,unknown,,,4.993781e-02,7.551560e-03,5.650446e-02,1.289186e-01
+3,heter_A1-unifS_A2-unifP_A3-unifS_tag-gauss0,unknown,unknown,,,8.526163e-02,1.534932e-02,9.248388e-02,1.868435e-01
+3,heter_A1-unifS_A2-unifS_A3-gauss0_tag-unifP,unknown,unknown,,,9.613503e-02,1.063988e-02,1.036840e-01,2.018104e-01
+3,heter_A1-unifS_A2-unifS_A3-unifN_tag-unifN,unknown,unknown,,,1.257553e-01,1.058385e-02,1.297020e-01,2.018465e-01
+3,heter_A1-unifS_A2-unifS_A3-unifN_tag-unifP,unknown,unknown,,,8.646319e-02,9.112793e-03,9.258721e-02,1.890894e-01
+4,bias_neg_0p02,Bias (−),bias_neg,2.000000e-02,,3.487084e-02,2.664209e-03,3.676009e-02,7.437076e-02
+4,bias_neg_0p05,Bias (−),bias_neg,5.000000e-02,,8.618118e-02,1.007069e-02,9.120217e-02,1.777317e-01
+4,bias_neg_0p1,Bias (−),bias_neg,1.000000e-01,,1.768699e-01,3.880919e-02,1.898058e-01,3.560743e-01
+4,bias_pos_0p02,Bias (+),bias_pos,2.000000e-02,,3.763165e-02,6.992101e-03,4.381730e-02,1.050942e-01
+4,bias_pos_0p05,Bias (+),bias_pos,5.000000e-02,,1.005205e-01,1.916332e-02,1.160339e-01,2.451970e-01
+4,bias_pos_0p1,Bias (+),bias_pos,1.000000e-01,,1.883215e-01,4.334591e-02,2.170087e-01,4.720675e-01
+4,combo_biasn0p02_gausss0p02,Bias (−) + Gaussian,combo_bias_neg_gauss,2.000000e-02,2.000000e-02,3.397678e-02,2.537073e-03,3.631515e-02,7.861662e-02
+4,combo_biasn0p02_gausss0p05,Bias (−) + Gaussian,combo_bias_neg_gauss,2.000000e-02,5.000000e-02,4.790528e-02,5.634353e-03,5.363862e-02,1.463460e-01
+4,combo_biasn0p05_gausss0p02,Bias (−) + Gaussian,combo_bias_neg_gauss,5.000000e-02,2.000000e-02,7.306496e-02,6.696433e-03,7.546811e-02,1.189828e-01
+4,combo_biasn0p05_gausss0p05,Bias (−) + Gaussian,combo_bias_neg_gauss,5.000000e-02,5.000000e-02,8.080539e-02,1.004915e-02,8.496664e-02,1.589208e-01
+4,combo_biasn0p02_unifsym0p05,Bias (−) + Uniform,combo_bias_neg_unif,2.000000e-02,5.000000e-02,3.080438e-02,1.712387e-03,3.216383e-02,5.528643e-02
+4,combo_biasn0p02_unifsym0p1,Bias (−) + Uniform,combo_bias_neg_unif,2.000000e-02,1.000000e-01,3.976093e-02,5.858373e-03,4.402447e-02,9.727242e-02
+4,combo_biasn0p05_unifsym0p05,Bias (−) + Uniform,combo_bias_neg_unif,5.000000e-02,5.000000e-02,7.271289e-02,8.252229e-03,7.597691e-02,1.254698e-01
+4,combo_biasn0p05_unifsym0p1,Bias (−) + Uniform,combo_bias_neg_unif,5.000000e-02,1.000000e-01,7.145545e-02,5.020455e-03,7.381360e-02,1.282552e-01
+4,combo_biasp0p02_gausss0p02,Bias (+) + Gaussian,combo_bias_pos_gauss,2.000000e-02,2.000000e-02,3.479728e-02,4.527301e-03,3.716778e-02,8.662394e-02
+4,combo_biasp0p02_gausss0p05,Bias (+) + Gaussian,combo_bias_pos_gauss,2.000000e-02,5.000000e-02,5.122807e-02,9.161680e-03,5.741824e-02,1.449521e-01
+4,combo_biasp0p05_gausss0p02,Bias (+) + Gaussian,combo_bias_pos_gauss,5.000000e-02,2.000000e-02,7.306253e-02,4.966665e-03,7.460980e-02,1.120665e-01
+4,combo_biasp0p05_gausss0p05,Bias (+) + Gaussian,combo_bias_pos_gauss,5.000000e-02,5.000000e-02,8.181446e-02,8.549264e-03,8.667253e-02,1.641305e-01
+4,combo_biasp0p02_unifsym0p05,Bias (+) + Uniform,combo_bias_pos_unif,2.000000e-02,5.000000e-02,3.146228e-02,2.314055e-03,3.307048e-02,6.085475e-02
+4,combo_biasp0p02_unifsym0p1,Bias (+) + Uniform,combo_bias_pos_unif,2.000000e-02,1.000000e-01,4.305991e-02,6.931762e-03,5.039092e-02,1.175396e-01
+4,combo_biasp0p05_unifsym0p05,Bias (+) + Uniform,combo_bias_pos_unif,5.000000e-02,5.000000e-02,7.024091e-02,4.837016e-03,7.135060e-02,1.011530e-01
+4,combo_biasp0p05_unifsym0p1,Bias (+) + Uniform,combo_bias_pos_unif,5.000000e-02,1.000000e-01,7.435557e-02,8.074625e-03,7.770340e-02,1.304948e-01
+4,combo_gausss0p02_unifsym0p05,Gaussian + Uniform,combo_gauss_unif,2.000000e-02,5.000000e-02,2.374904e-02,4.186794e-03,2.764063e-02,7.618962e-02
+4,combo_gausss0p02_unifsym0p1,Gaussian + Uniform,combo_gauss_unif,2.000000e-02,1.000000e-01,3.200671e-02,6.134842e-03,3.735936e-02,9.979681e-02
+4,combo_gausss0p05_unifsym0p05,Gaussian + Uniform,combo_gauss_unif,5.000000e-02,5.000000e-02,4.471082e-02,3.647137e-03,5.294144e-02,1.427094e-01
+4,combo_gausss0p05_unifsym0p1,Gaussian + Uniform,combo_gauss_unif,5.000000e-02,1.000000e-01,4.865649e-02,6.777184e-03,5.930831e-02,1.554350e-01
+4,gauss_s0p02,Gaussian noise,gauss,2.000000e-02,,2.019086e-02,2.269663e-03,2.279271e-02,5.804193e-02
+4,gauss_s0p05,Gaussian noise,gauss,5.000000e-02,,4.673832e-02,9.783931e-03,5.581309e-02,1.439590e-01
+4,gauss_s0p1,Gaussian noise,gauss,1.000000e-01,,8.302848e-02,2.515648e-02,1.076676e-01,2.708158e-01
+4,sin_error,No error,none,,,3.288316e-16,4.737571e-16,2.127127e-15,1.582806e-14
+4,unif_neg_0p05,Uniform noise (negative only),unif_neg,5.000000e-02,,3.622204e-02,2.750065e-03,3.761788e-02,6.426134e-02
+4,unif_neg_0p1,Uniform noise (negative only),unif_neg,1.000000e-01,,7.473011e-02,7.689459e-03,7.903281e-02,1.542808e-01
+4,unif_neg_0p2,Uniform noise (negative only),unif_neg,2.000000e-01,,1.400170e-01,9.849451e-03,1.440745e-01,2.281858e-01
+4,unif_pos_0p05,Uniform noise (positive only),unif_pos,5.000000e-02,,3.699009e-02,2.588997e-03,3.828274e-02,6.060824e-02
+4,unif_pos_0p1,Uniform noise (positive only),unif_pos,1.000000e-01,,7.554257e-02,6.591864e-03,7.758508e-02,1.202347e-01
+4,unif_pos_0p2,Uniform noise (positive only),unif_pos,2.000000e-01,,1.475123e-01,1.400448e-02,1.514759e-01,2.475955e-01
+4,unif_sym_0p05,Uniform noise (symmetric),unif_sym,5.000000e-02,,1.618161e-02,1.439724e-03,1.775043e-02,3.967114e-02
+4,unif_sym_0p1,Uniform noise (symmetric),unif_sym,1.000000e-01,,3.261620e-02,1.058251e-02,4.220004e-02,1.123664e-01
+4,unif_sym_0p2,Uniform noise (symmetric),unif_sym,2.000000e-01,,5.194288e-02,1.655874e-02,6.326966e-02,1.646826e-01
+4,heter_A1-biasN_A2-biasN_A3-gaussN_A4-none_tag-unifS,unknown,unknown,,,7.884036e-02,7.707132e-03,8.368379e-02,1.609741e-01
+4,heter_A1-biasN_A2-biasP_A3-none_A4-gauss0_tag-unifP,unknown,unknown,,,1.080886e-01,1.291442e-02,1.145783e-01,2.069362e-01
+4,heter_A1-biasN_A2-gaussN_A3-gaussN_A4-none_tag-gaussN,unknown,unknown,,,1.066414e-01,1.622018e-02,1.145229e-01,2.222490e-01
+4,heter_A1-biasN_A2-gaussP_A3-unifS_A4-biasP_tag-none,unknown,unknown,,,1.173210e-01,1.990270e-02,1.236154e-01,1.893378e-01
+4,heter_A1-biasN_A2-none_A3-biasN_A4-gaussN_tag-unifN,unknown,unknown,,,1.192233e-01,9.750457e-03,1.222561e-01,1.866206e-01
+4,heter_A1-biasN_A2-unifP_A3-unifS_A4-gaussP_tag-unifP,unknown,unknown,,,1.066463e-01,1.430733e-02,1.172606e-01,2.215286e-01
+4,heter_A1-biasP_A2-biasN_A3-gauss0_A4-biasN_tag-unifP,unknown,unknown,,,1.178984e-01,1.870384e-02,1.250064e-01,2.227849e-01
+4,heter_A1-biasP_A2-biasN_A3-unifP_A4-gaussP_tag-none,unknown,unknown,,,9.209131e-02,1.685220e-02,9.760621e-02,1.639650e-01
+4,heter_A1-biasP_A2-biasP_A3-none_A4-unifN_tag-unifN,unknown,unknown,,,9.241220e-02,1.152849e-02,9.797571e-02,1.706764e-01
+4,heter_A1-biasP_A2-gauss0_A3-gauss0_A4-gaussN_tag-gauss0,unknown,unknown,,,8.560068e-02,1.015198e-02,9.415336e-02,1.942135e-01
+4,heter_A1-biasP_A2-gaussN_A3-biasP_A4-unifS_tag-unifP,unknown,unknown,,,1.252538e-01,1.824144e-02,1.289500e-01,2.008289e-01
+4,heter_A1-biasP_A2-gaussN_A3-none_A4-biasN_tag-gauss0,unknown,unknown,,,9.086169e-02,1.365255e-02,1.015880e-01,2.335172e-01
+4,heter_A1-biasP_A2-none_A3-none_A4-gaussP_tag-gaussP,unknown,unknown,,,9.202441e-02,1.335988e-02,9.729344e-02,1.909601e-01
+4,heter_A1-biasP_A2-unifN_A3-biasP_A4-gaussN_tag-gaussN,unknown,unknown,,,1.107820e-01,2.271165e-02,1.230077e-01,2.427299e-01
+4,heter_A1-biasP_A2-unifN_A3-gaussP_A4-gaussN_tag-biasP,unknown,unknown,,,1.232577e-01,2.076758e-02,1.271246e-01,2.020234e-01
+4,heter_A1-gauss0_A2-biasN_A3-gaussN_A4-none_tag-gaussN,unknown,unknown,,,9.485936e-02,1.608188e-02,1.022491e-01,2.064797e-01
+4,heter_A1-gauss0_A2-biasN_A3-none_A4-biasN_tag-unifP,unknown,unknown,,,7.341844e-02,1.089962e-02,8.111983e-02,1.677270e-01
+4,heter_A1-gauss0_A2-gaussP_A3-gauss0_A4-unifP_tag-gaussP,unknown,unknown,,,1.083800e-01,2.601190e-02,1.172408e-01,2.166521e-01
+4,heter_A1-gauss0_A2-gaussP_A3-unifN_A4-unifS_tag-gaussN,unknown,unknown,,,8.716224e-02,1.837304e-02,9.554831e-02,2.210016e-01
+4,heter_A1-gauss0_A2-unifN_A3-unifS_A4-unifS_tag-gauss0,unknown,unknown,,,6.780721e-02,1.269544e-02,7.689536e-02,1.870210e-01
+4,heter_A1-gauss0_A2-unifP_A3-gaussN_A4-gauss0_tag-none,unknown,unknown,,,7.105381e-02,9.788140e-03,7.597532e-02,1.541929e-01
+4,heter_A1-gaussN_A2-biasN_A3-gaussP_A4-gaussP_tag-biasP,unknown,unknown,,,9.166591e-02,1.186447e-02,9.777155e-02,1.880836e-01
+4,heter_A1-gaussN_A2-gauss0_A3-none_A4-biasP_tag-none,unknown,unknown,,,7.642755e-02,5.911867e-03,7.952090e-02,1.385689e-01
+4,heter_A1-gaussN_A2-gaussN_A3-none_A4-unifP_tag-biasP,unknown,unknown,,,1.043144e-01,1.210322e-02,1.071464e-01,1.661720e-01
+4,heter_A1-gaussN_A2-none_A3-gauss0_A4-gaussN_tag-gauss0,unknown,unknown,,,6.241861e-02,1.368253e-02,7.148550e-02,1.620780e-01
+4,heter_A1-gaussN_A2-none_A3-gaussP_A4-none_tag-gaussP,unknown,unknown,,,6.969041e-02,1.326464e-02,8.088936e-02,2.062763e-01
+4,heter_A1-gaussN_A2-none_A3-unifN_A4-unifN_tag-biasP,unknown,unknown,,,6.706339e-02,7.505413e-03,7.002670e-02,1.308723e-01
+4,heter_A1-gaussN_A2-unifS_A3-unifP_A4-biasP_tag-unifP,unknown,unknown,,,1.210585e-01,5.909961e-03,1.245588e-01,2.103437e-01
+4,heter_A1-gaussN_A2-unifS_A3-unifS_A4-unifP_tag-gauss0,unknown,unknown,,,7.856063e-02,1.618572e-02,8.791645e-02,1.945148e-01
+4,heter_A1-gaussP_A2-biasP_A3-gaussP_A4-gaussP_tag-biasP,unknown,unknown,,,1.569464e-01,1.989918e-02,1.614332e-01,2.590446e-01
+4,heter_A1-gaussP_A2-biasP_A3-gaussP_A4-unifS_tag-gaussN,unknown,unknown,,,5.880702e-02,5.181215e-03,6.534089e-02,1.536152e-01
+4,heter_A1-gaussP_A2-gaussN_A3-gaussN_A4-unifN_tag-gauss0,unknown,unknown,,,8.135870e-02,1.053279e-02,9.176218e-02,2.135971e-01
+4,heter_A1-gaussP_A2-gaussN_A3-gaussP_A4-gauss0_tag-none,unknown,unknown,,,6.765035e-02,1.582685e-02,7.787126e-02,1.751067e-01
+4,heter_A1-gaussP_A2-unifN_A3-unifN_A4-unifP_tag-biasP,unknown,unknown,,,1.145408e-01,1.175640e-02,1.182354e-01,2.012705e-01
+4,heter_A1-gaussP_A2-unifP_A3-biasP_A4-biasN_tag-biasP,unknown,unknown,,,1.875816e-01,7.676365e-02,2.054271e-01,3.531006e-01
+4,heter_A1-gaussP_A2-unifP_A3-gauss0_A4-none_tag-unifP,unknown,unknown,,,1.351966e-01,2.351084e-02,1.437952e-01,2.438005e-01
+4,heter_A1-none_A2-biasP_A3-biasP_A4-gauss0_tag-biasN,unknown,unknown,,,9.601556e-02,3.117814e-02,1.069431e-01,2.073083e-01
+4,heter_A1-none_A2-unifP_A3-biasN_A4-none_tag-unifP,unknown,unknown,,,1.085927e-01,7.899814e-03,1.129040e-01,1.846055e-01
+4,heter_A1-none_A2-unifP_A3-gaussP_A4-unifP_tag-gauss0,unknown,unknown,,,8.236200e-02,1.464083e-02,9.269429e-02,1.967440e-01
+4,heter_A1-unifN_A2-biasN_A3-gauss0_A4-unifN_tag-gaussN,unknown,unknown,,,1.288890e-01,2.668967e-02,1.390261e-01,2.692903e-01
+4,heter_A1-unifN_A2-biasP_A3-gauss0_A4-biasN_tag-gaussP,unknown,unknown,,,8.732839e-02,1.155763e-02,9.386617e-02,2.028494e-01
+4,heter_A1-unifN_A2-biasP_A3-unifP_A4-gauss0_tag-gaussP,unknown,unknown,,,1.061545e-01,1.134168e-02,1.136864e-01,2.183424e-01
+4,heter_A1-unifN_A2-gaussN_A3-gaussN_A4-gaussP_tag-biasP,unknown,unknown,,,9.060431e-02,2.298871e-02,9.771433e-02,1.818462e-01
+4,heter_A1-unifN_A2-gaussN_A3-gaussP_A4-unifN_tag-biasP,unknown,unknown,,,6.641795e-02,9.331608e-03,7.488251e-02,1.728588e-01
+4,heter_A1-unifN_A2-gaussN_A3-unifP_A4-unifS_tag-biasN,unknown,unknown,,,1.215817e-01,1.398536e-02,1.254122e-01,1.970558e-01
+4,heter_A1-unifN_A2-gaussP_A3-unifN_A4-unifP_tag-biasP,unknown,unknown,,,1.218628e-01,1.540918e-02,1.266531e-01,2.090072e-01
+4,heter_A1-unifN_A2-none_A3-biasN_A4-biasP_tag-unifN,unknown,unknown,,,1.207281e-01,7.793572e-03,1.279501e-01,2.095036e-01
+4,heter_A1-unifN_A2-none_A3-biasP_A4-gaussN_tag-unifS,unknown,unknown,,,9.526662e-02,1.969036e-02,1.041436e-01,2.045089e-01
+4,heter_A1-unifN_A2-none_A3-gaussN_A4-gaussN_tag-biasN,unknown,unknown,,,1.278045e-01,1.199429e-02,1.306902e-01,1.958180e-01
+4,heter_A1-unifN_A2-unifN_A3-gaussP_A4-biasN_tag-gauss0,unknown,unknown,,,1.105315e-01,1.424449e-02,1.175510e-01,2.359934e-01
+4,heter_A1-unifN_A2-unifN_A3-none_A4-biasP_tag-unifN,unknown,unknown,,,1.226636e-01,9.184922e-03,1.276389e-01,2.052171e-01
+4,heter_A1-unifP_A2-biasN_A3-unifN_A4-gauss0_tag-gauss0,unknown,unknown,,,8.169382e-02,6.493367e-03,9.014349e-02,1.799289e-01
+4,heter_A1-unifP_A2-biasP_A3-gauss0_A4-gaussP_tag-gaussP,unknown,unknown,,,1.215840e-01,1.889144e-02,1.266161e-01,2.247762e-01
+4,heter_A1-unifP_A2-biasP_A3-gaussN_A4-none_tag-unifN,unknown,unknown,,,7.290053e-02,7.118740e-03,8.154034e-02,1.906006e-01
+4,heter_A1-unifP_A2-none_A3-gaussN_A4-unifN_tag-unifN,unknown,unknown,,,1.083704e-01,8.186972e-03,1.137310e-01,2.001801e-01
+4,heter_A1-unifP_A2-unifN_A3-biasP_A4-biasP_tag-biasP,unknown,unknown,,,1.291978e-01,5.141126e-03,1.304315e-01,1.786636e-01
+4,heter_A1-unifS_A2-biasP_A3-biasN_A4-gaussP_tag-biasP,unknown,unknown,,,1.530516e-01,3.572516e-02,1.609209e-01,2.634885e-01
+4,heter_A1-unifS_A2-gaussN_A3-biasP_A4-none_tag-gaussN,unknown,unknown,,,9.019784e-02,2.200753e-02,1.000964e-01,2.135469e-01
+4,heter_A1-unifS_A2-gaussN_A3-gauss0_A4-unifN_tag-unifS,unknown,unknown,,,7.583141e-02,1.663709e-02,8.480505e-02,1.820948e-01
+4,heter_A1-unifS_A2-unifN_A3-biasP_A4-biasP_tag-none,unknown,unknown,,,8.397633e-02,1.080204e-02,8.625912e-02,1.432797e-01
+5,bias_neg_0p02,Bias (−),bias_neg,2.000000e-02,,3.817909e-02,7.654399e-03,4.143860e-02,7.250532e-02
+5,bias_neg_0p05,Bias (−),bias_neg,5.000000e-02,,8.907024e-02,3.334910e-02,9.548361e-02,1.444967e-01
+5,bias_neg_0p1,Bias (−),bias_neg,1.000000e-01,,1.480991e-01,1.729337e-02,1.520639e-01,2.242586e-01
+5,bias_pos_0p02,Bias (+),bias_pos,2.000000e-02,,3.673359e-02,6.664677e-03,3.906636e-02,6.269510e-02
+5,bias_pos_0p05,Bias (+),bias_pos,5.000000e-02,,8.599296e-02,2.438792e-02,9.161896e-02,1.458770e-01
+5,bias_pos_0p1,Bias (+),bias_pos,1.000000e-01,,1.320191e-01,3.736365e-03,1.334782e-01,1.732558e-01
+5,combo_biasn0p02_gausss0p02,Bias (−) + Gaussian,combo_bias_neg_gauss,2.000000e-02,2.000000e-02,3.806218e-02,2.136623e-03,3.993884e-02,6.974586e-02
+5,combo_biasn0p02_gausss0p05,Bias (−) + Gaussian,combo_bias_neg_gauss,2.000000e-02,5.000000e-02,5.181108e-02,5.825712e-03,5.683500e-02,1.220213e-01
+5,combo_biasn0p05_gausss0p02,Bias (−) + Gaussian,combo_bias_neg_gauss,5.000000e-02,2.000000e-02,8.611335e-02,1.227890e-02,8.985938e-02,1.422140e-01
+5,combo_biasn0p05_gausss0p05,Bias (−) + Gaussian,combo_bias_neg_gauss,5.000000e-02,5.000000e-02,9.518536e-02,1.892124e-02,1.031031e-01,1.829827e-01
+5,combo_biasn0p02_unifsym0p05,Bias (−) + Uniform,combo_bias_neg_unif,2.000000e-02,5.000000e-02,3.515024e-02,2.723554e-03,3.660505e-02,5.871628e-02
+5,combo_biasn0p02_unifsym0p1,Bias (−) + Uniform,combo_bias_neg_unif,2.000000e-02,1.000000e-01,4.771191e-02,1.736843e-02,5.719970e-02,1.400783e-01
+5,combo_biasn0p05_unifsym0p05,Bias (−) + Uniform,combo_bias_neg_unif,5.000000e-02,5.000000e-02,8.177371e-02,7.020647e-03,8.371762e-02,1.187666e-01
+5,combo_biasn0p05_unifsym0p1,Bias (−) + Uniform,combo_bias_neg_unif,5.000000e-02,1.000000e-01,8.970613e-02,1.055455e-02,9.339253e-02,1.490495e-01
+5,combo_biasp0p02_gausss0p02,Bias (+) + Gaussian,combo_bias_pos_gauss,2.000000e-02,2.000000e-02,3.851823e-02,6.441130e-03,4.092683e-02,7.514198e-02
+5,combo_biasp0p02_gausss0p05,Bias (+) + Gaussian,combo_bias_pos_gauss,2.000000e-02,5.000000e-02,5.434483e-02,1.294960e-02,6.384015e-02,1.514356e-01
+5,combo_biasp0p05_gausss0p02,Bias (+) + Gaussian,combo_bias_pos_gauss,5.000000e-02,2.000000e-02,8.450264e-02,6.419243e-03,8.685824e-02,1.305455e-01
+5,combo_biasp0p05_gausss0p05,Bias (+) + Gaussian,combo_bias_pos_gauss,5.000000e-02,5.000000e-02,8.933101e-02,8.257161e-03,9.297368e-02,1.508292e-01
+5,combo_biasp0p02_unifsym0p05,Bias (+) + Uniform,combo_bias_pos_unif,2.000000e-02,5.000000e-02,3.557929e-02,2.109040e-03,3.699412e-02,5.949328e-02
+5,combo_biasp0p02_unifsym0p1,Bias (+) + Uniform,combo_bias_pos_unif,2.000000e-02,1.000000e-01,4.079563e-02,4.070608e-03,4.414657e-02,9.085786e-02
+5,combo_biasp0p05_unifsym0p05,Bias (+) + Uniform,combo_bias_pos_unif,5.000000e-02,5.000000e-02,8.421767e-02,9.223999e-03,8.722782e-02,1.327907e-01
+5,combo_biasp0p05_unifsym0p1,Bias (+) + Uniform,combo_bias_pos_unif,5.000000e-02,1.000000e-01,8.817827e-02,4.589611e-03,9.100265e-02,1.394005e-01
+5,combo_gausss0p02_unifsym0p05,Gaussian + Uniform,combo_gauss_unif,2.000000e-02,5.000000e-02,2.409964e-02,7.398175e-03,2.825194e-02,7.167286e-02
+5,combo_gausss0p02_unifsym0p1,Gaussian + Uniform,combo_gauss_unif,2.000000e-02,1.000000e-01,3.009081e-02,4.742031e-03,3.552673e-02,9.169293e-02
+5,combo_gausss0p05_unifsym0p05,Gaussian + Uniform,combo_gauss_unif,5.000000e-02,5.000000e-02,3.999276e-02,4.720078e-03,4.632709e-02,1.198798e-01
+5,combo_gausss0p05_unifsym0p1,Gaussian + Uniform,combo_gauss_unif,5.000000e-02,1.000000e-01,4.729128e-02,1.193351e-02,5.900645e-02,1.531365e-01
+5,gauss_s0p02,Gaussian noise,gauss,2.000000e-02,,1.871204e-02,1.668121e-03,2.080397e-02,4.885420e-02
+5,gauss_s0p05,Gaussian noise,gauss,5.000000e-02,,3.932640e-02,4.853125e-03,4.688115e-02,1.211489e-01
+5,gauss_s0p1,Gaussian noise,gauss,1.000000e-01,,8.851032e-02,6.257503e-02,1.168781e-01,2.904254e-01
+5,sin_error,No error,none,,,3.322761e-17,4.153096e-17,8.267242e-17,4.248758e-16
+5,unif_neg_0p05,Uniform noise (negative only),unif_neg,5.000000e-02,,4.309120e-02,3.412022e-03,4.459652e-02,6.726244e-02
+5,unif_neg_0p1,Uniform noise (negative only),unif_neg,1.000000e-01,,8.593962e-02,8.212142e-03,8.850780e-02,1.354371e-01
+5,unif_neg_0p2,Uniform noise (negative only),unif_neg,2.000000e-01,,1.780189e-01,4.018325e-02,1.874621e-01,2.922331e-01
+5,unif_pos_0p05,Uniform noise (positive only),unif_pos,5.000000e-02,,4.314873e-02,1.875764e-03,4.446118e-02,6.791463e-02
+5,unif_pos_0p1,Uniform noise (positive only),unif_pos,1.000000e-01,,8.917165e-02,7.636718e-03,9.316398e-02,1.542253e-01
+5,unif_pos_0p2,Uniform noise (positive only),unif_pos,2.000000e-01,,1.735768e-01,1.289287e-02,1.777592e-01,2.721612e-01
+5,unif_sym_0p05,Uniform noise (symmetric),unif_sym,5.000000e-02,,1.482068e-02,1.054388e-03,1.625627e-02,3.472881e-02
+5,unif_sym_0p1,Uniform noise (symmetric),unif_sym,1.000000e-01,,2.839587e-02,6.879832e-03,3.369080e-02,8.689211e-02
+5,unif_sym_0p2,Uniform noise (symmetric),unif_sym,2.000000e-01,,4.942575e-02,8.414514e-03,5.903232e-02,1.489236e-01
+5,heter_A1-biasN_A2-biasP_A3-gaussN_A4-none_A5-unifN_tag-biasN,unknown,unknown,,,1.718091e-01,4.753237e-02,1.845190e-01,3.430953e-01
+5,heter_A1-biasN_A2-biasP_A3-none_A4-gauss0_A5-gauss0_tag-gauss0,unknown,unknown,,,7.367470e-02,3.078389e-02,8.879786e-02,2.157320e-01
+5,heter_A1-biasN_A2-gauss0_A3-unifP_A4-gauss0_A5-gaussN_tag-unifP,unknown,unknown,,,1.281169e-01,1.074205e-02,1.327948e-01,2.131326e-01
+5,heter_A1-biasN_A2-gauss0_A3-unifP_A4-unifP_A5-gauss0_tag-none,unknown,unknown,,,1.174121e-01,2.090049e-02,1.269118e-01,2.326702e-01
+5,heter_A1-biasN_A2-unifS_A3-unifN_A4-unifS_A5-gaussP_tag-unifN,unknown,unknown,,,1.130314e-01,9.022241e-03,1.151089e-01,1.608716e-01
+5,heter_A1-biasP_A2-biasN_A3-gaussN_A4-unifP_A5-unifP_tag-unifP,unknown,unknown,,,1.112809e-01,1.818967e-02,1.164358e-01,2.021883e-01
+5,heter_A1-biasP_A2-biasP_A3-unifP_A4-unifP_A5-unifP_tag-gauss0,unknown,unknown,,,8.988883e-02,8.596524e-03,9.348567e-02,1.590249e-01
+5,heter_A1-biasP_A2-gaussP_A3-gauss0_A4-gaussP_A5-gauss0_tag-unifP,unknown,unknown,,,1.338488e-01,1.956904e-02,1.391095e-01,2.253701e-01
+5,heter_A1-biasP_A2-gaussP_A3-unifS_A4-unifN_A5-unifN_tag-gauss0,unknown,unknown,,,8.750514e-02,1.407741e-02,9.460797e-02,1.920842e-01
+5,heter_A1-biasP_A2-none_A3-unifN_A4-unifP_A5-gauss0_tag-gaussP,unknown,unknown,,,9.070862e-02,1.239540e-02,9.717110e-02,1.880620e-01
+5,heter_A1-biasP_A2-none_A3-unifN_A4-unifS_A5-gaussN_tag-biasP,unknown,unknown,,,1.290766e-01,1.417047e-02,1.354317e-01,2.182875e-01
+5,heter_A1-biasP_A2-unifN_A3-unifS_A4-gaussP_A5-unifP_tag-biasP,unknown,unknown,,,1.444785e-01,2.644031e-02,1.533963e-01,2.591231e-01
+5,heter_A1-biasP_A2-unifP_A3-none_A4-unifS_A5-gauss0_tag-biasP,unknown,unknown,,,1.287647e-01,7.669119e-03,1.308647e-01,1.799258e-01
+5,heter_A1-biasP_A2-unifP_A3-unifS_A4-gauss0_A5-gaussP_tag-none,unknown,unknown,,,7.105329e-02,5.545589e-03,7.387478e-02,1.426205e-01
+5,heter_A1-gauss0_A2-biasP_A3-biasN_A4-gaussP_A5-none_tag-none,unknown,unknown,,,1.645551e-01,7.598900e-02,2.043571e-01,4.707016e-01
+5,heter_A1-gauss0_A2-biasP_A3-gaussN_A4-gaussN_A5-none_tag-none,unknown,unknown,,,7.194635e-02,6.353091e-03,7.596890e-02,1.414563e-01
+5,heter_A1-gauss0_A2-gaussN_A3-unifS_A4-unifP_A5-gaussP_tag-unifP,unknown,unknown,,,1.182504e-01,8.109490e-03,1.206713e-01,1.732297e-01
+5,heter_A1-gauss0_A2-unifP_A3-gaussN_A4-unifS_A5-unifS_tag-none,unknown,unknown,,,4.890885e-02,5.639895e-03,5.446943e-02,1.218469e-01
+5,heter_A1-gaussN_A2-biasN_A3-gauss0_A4-biasN_A5-none_tag-unifP,unknown,unknown,,,5.300542e-02,2.723866e-02,6.513704e-02,1.681268e-01
+5,heter_A1-gaussN_A2-biasN_A3-unifS_A4-biasP_A5-gauss0_tag-unifS,unknown,unknown,,,8.269213e-02,7.186979e-03,8.835221e-02,1.718366e-01
+5,heter_A1-gaussN_A2-biasP_A3-unifS_A4-none_A5-unifP_tag-biasN,unknown,unknown,,,8.971498e-02,1.421578e-02,9.527807e-02,1.657203e-01
+5,heter_A1-gaussN_A2-gaussN_A3-gaussN_A4-biasP_A5-unifN_tag-gauss0,unknown,unknown,,,9.224156e-02,2.125948e-02,1.005631e-01,2.069687e-01
+5,heter_A1-gaussP_A2-biasN_A3-unifN_A4-gauss0_A5-gaussP_tag-biasN,unknown,unknown,,,1.547752e-01,1.064667e-02,1.576638e-01,2.225074e-01
+5,heter_A1-gaussP_A2-biasP_A3-biasN_A4-gaussN_A5-gauss0_tag-gaussN,unknown,unknown,,,1.189086e-01,1.514897e-02,1.262049e-01,2.230646e-01
+5,heter_A1-gaussP_A2-biasP_A3-none_A4-unifP_A5-unifN_tag-gauss0,unknown,unknown,,,6.918543e-02,1.403616e-02,7.660989e-02,1.658066e-01
+5,heter_A1-gaussP_A2-biasP_A3-unifS_A4-unifS_A5-biasN_tag-biasN,unknown,unknown,,,1.216324e-01,2.935641e-02,1.284116e-01,2.078079e-01
+5,heter_A1-gaussP_A2-gauss0_A3-unifN_A4-unifN_A5-biasP_tag-unifN,unknown,unknown,,,1.579730e-01,1.504745e-02,1.613837e-01,2.310797e-01
+5,heter_A1-gaussP_A2-gaussP_A3-biasN_A4-gaussP_A5-unifS_tag-biasP,unknown,unknown,,,9.823887e-02,9.860923e-03,1.026547e-01,1.793612e-01
+5,heter_A1-gaussP_A2-none_A3-unifP_A4-unifN_A5-none_tag-gaussP,unknown,unknown,,,8.062520e-02,8.296517e-03,8.822050e-02,1.931576e-01
+5,heter_A1-gaussP_A2-unifN_A3-gauss0_A4-biasN_A5-unifP_tag-gauss0,unknown,unknown,,,9.386032e-02,1.077789e-02,1.027001e-01,2.052910e-01
+5,heter_A1-gaussP_A2-unifP_A3-biasN_A4-unifP_A5-gaussN_tag-biasN,unknown,unknown,,,1.065366e-01,1.115319e-02,1.100959e-01,1.696312e-01
+5,heter_A1-gaussP_A2-unifP_A3-gaussP_A4-unifP_A5-gaussP_tag-gaussP,unknown,unknown,,,1.256167e-01,7.725158e-03,1.285978e-01,1.959817e-01
+5,heter_A1-gaussP_A2-unifP_A3-unifP_A4-unifP_A5-gauss0_tag-unifN,unknown,unknown,,,4.533791e-02,7.636522e-03,5.136514e-02,1.311651e-01
+5,heter_A1-none_A2-biasN_A3-gaussP_A4-gaussP_A5-biasP_tag-gaussP,unknown,unknown,,,7.699820e-02,6.497328e-03,8.199784e-02,1.683550e-01
+5,heter_A1-none_A2-gaussN_A3-none_A4-unifP_A5-gauss0_tag-gaussN,unknown,unknown,,,7.043098e-02,5.958296e-03,7.633042e-02,1.537900e-01
+5,heter_A1-none_A2-gaussN_A3-unifS_A4-gauss0_A5-gaussP_tag-gaussP,unknown,unknown,,,6.284509e-02,1.346547e-02,7.028957e-02,1.627518e-01
+5,heter_A1-none_A2-gaussP_A3-unifN_A4-none_A5-gauss0_tag-biasN,unknown,unknown,,,1.242409e-01,7.029855e-03,1.315613e-01,2.349545e-01
+5,heter_A1-none_A2-gaussP_A3-unifS_A4-none_A5-biasN_tag-none,unknown,unknown,,,8.572472e-02,6.692282e-03,9.355270e-02,1.770480e-01
+5,heter_A1-none_A2-none_A3-gaussN_A4-biasP_A5-unifS_tag-none,unknown,unknown,,,2.134082e-01,2.537184e-01,2.887744e-01,6.852910e-01
+5,heter_A1-none_A2-unifN_A3-gaussP_A4-biasN_A5-biasP_tag-biasN,unknown,unknown,,,2.032547e-01,3.480090e-02,2.176227e-01,3.695682e-01
+5,heter_A1-none_A2-unifN_A3-none_A4-none_A5-gaussN_tag-biasN,unknown,unknown,,,1.168972e-01,2.451656e-02,1.297593e-01,2.450365e-01
+5,heter_A1-unifN_A2-biasN_A3-biasP_A4-biasP_A5-unifS_tag-unifP,unknown,unknown,,,1.550654e-01,1.723917e-02,1.593253e-01,2.360264e-01
+5,heter_A1-unifN_A2-biasP_A3-gaussN_A4-unifP_A5-gaussP_tag-unifN,unknown,unknown,,,7.595310e-02,1.019858e-02,8.117295e-02,1.472040e-01
+5,heter_A1-unifN_A2-gauss0_A3-gaussP_A4-none_A5-biasN_tag-biasP,unknown,unknown,,,1.078637e-01,1.602562e-02,1.152338e-01,1.959091e-01
+5,heter_A1-unifN_A2-gauss0_A3-none_A4-biasP_A5-unifP_tag-gaussP,unknown,unknown,,,1.182760e-01,8.469336e-03,1.227202e-01,1.968575e-01
+5,heter_A1-unifN_A2-none_A3-biasN_A4-biasN_A5-none_tag-biasN,unknown,unknown,,,1.596355e-01,1.624324e-02,1.650849e-01,2.555193e-01
+5,heter_A1-unifN_A2-unifP_A3-none_A4-biasN_A5-gaussN_tag-gaussN,unknown,unknown,,,7.964092e-02,1.283840e-02,8.553263e-02,1.656450e-01
+5,heter_A1-unifN_A2-unifP_A3-none_A4-unifS_A5-gaussP_tag-unifP,unknown,unknown,,,1.262284e-01,8.878677e-03,1.305277e-01,2.116935e-01
+5,heter_A1-unifP_A2-biasP_A3-unifS_A4-gaussP_A5-gaussN_tag-gaussN,unknown,unknown,,,5.534745e-02,4.674947e-03,6.647695e-02,1.736943e-01
+5,heter_A1-unifP_A2-gauss0_A3-gaussP_A4-gaussN_A5-gaussP_tag-biasP,unknown,unknown,,,1.194151e-01,8.713333e-03,1.231210e-01,2.093115e-01
+5,heter_A1-unifP_A2-gaussP_A3-gaussN_A4-gaussN_A5-unifP_tag-gaussP,unknown,unknown,,,1.155952e-01,1.706286e-02,1.228616e-01,2.341370e-01
+5,heter_A1-unifP_A2-gaussP_A3-unifN_A4-biasN_A5-unifN_tag-unifN,unknown,unknown,,,1.516282e-01,8.423579e-03,1.550782e-01,2.344746e-01
+5,heter_A1-unifP_A2-none_A3-biasN_A4-gauss0_A5-biasP_tag-unifN,unknown,unknown,,,1.322778e-01,1.167983e-02,1.354372e-01,2.040279e-01
+5,heter_A1-unifP_A2-none_A3-biasN_A4-gaussP_A5-none_tag-gaussP,unknown,unknown,,,7.837123e-02,7.980085e-03,8.520035e-02,1.758381e-01
+5,heter_A1-unifP_A2-none_A3-unifS_A4-gaussP_A5-gaussN_tag-unifS,unknown,unknown,,,5.039621e-02,1.471485e-02,5.848023e-02,1.489302e-01
+5,heter_A1-unifP_A2-unifP_A3-gauss0_A4-none_A5-unifN_tag-unifN,unknown,unknown,,,8.472355e-02,1.075349e-02,8.968492e-02,1.841533e-01
+5,heter_A1-unifS_A2-biasP_A3-gaussP_A4-unifN_A5-biasP_tag-unifS,unknown,unknown,,,7.660120e-02,1.151829e-02,8.398102e-02,1.815624e-01
+5,heter_A1-unifS_A2-none_A3-gauss0_A4-gauss0_A5-unifP_tag-none,unknown,unknown,,,4.844495e-02,5.918723e-03,5.424356e-02,1.249592e-01
+5,heter_A1-unifS_A2-unifN_A3-gaussP_A4-none_A5-unifP_tag-gaussP,unknown,unknown,,,7.180559e-02,1.013014e-02,7.859029e-02,1.509847e-01
+5,heter_A1-unifS_A2-unifP_A3-unifP_A4-unifS_A5-unifP_tag-biasP,unknown,unknown,,,1.423807e-01,1.665893e-02,1.468281e-01,2.196645e-01
+6,bias_neg_0p02,Bias (−),bias_neg,2.000000e-02,,3.134748e-02,2.667749e-03,3.278158e-02,5.724307e-02
+6,bias_neg_0p05,Bias (−),bias_neg,5.000000e-02,,8.536607e-02,1.057877e-02,8.973517e-02,1.525915e-01
+6,bias_neg_0p1,Bias (−),bias_neg,1.000000e-01,,1.755120e-01,2.906023e-02,1.856232e-01,3.105507e-01
+6,bias_pos_0p02,Bias (+),bias_pos,2.000000e-02,,3.177031e-02,2.418370e-03,3.304937e-02,5.663799e-02
+6,bias_pos_0p05,Bias (+),bias_pos,5.000000e-02,,1.035028e-01,3.994873e-02,1.096641e-01,1.804842e-01
+6,bias_pos_0p1,Bias (+),bias_pos,1.000000e-01,,1.842932e-01,4.005285e-02,1.971957e-01,3.422764e-01
+6,combo_biasn0p02_gausss0p02,Bias (−) + Gaussian,combo_bias_neg_gauss,2.000000e-02,2.000000e-02,3.025083e-02,2.072898e-03,3.208005e-02,6.179058e-02
+6,combo_biasn0p02_gausss0p05,Bias (−) + Gaussian,combo_bias_neg_gauss,2.000000e-02,5.000000e-02,4.543439e-02,4.354654e-03,5.162947e-02,1.258890e-01
+6,combo_biasn0p05_gausss0p02,Bias (−) + Gaussian,combo_bias_neg_gauss,5.000000e-02,2.000000e-02,7.140142e-02,3.631551e-03,7.397245e-02,1.235822e-01
+6,combo_biasn0p05_gausss0p05,Bias (−) + Gaussian,combo_bias_neg_gauss,5.000000e-02,5.000000e-02,7.545634e-02,9.635905e-03,8.283734e-02,1.728973e-01
+6,combo_biasn0p02_unifsym0p05,Bias (−) + Uniform,combo_bias_neg_unif,2.000000e-02,5.000000e-02,2.814889e-02,2.284742e-03,2.962629e-02,5.332329e-02
+6,combo_biasn0p02_unifsym0p1,Bias (−) + Uniform,combo_bias_neg_unif,2.000000e-02,1.000000e-01,3.537022e-02,3.825240e-03,3.883367e-02,9.344550e-02
+6,combo_biasn0p05_unifsym0p05,Bias (−) + Uniform,combo_bias_neg_unif,5.000000e-02,5.000000e-02,7.775675e-02,1.056323e-02,8.123281e-02,1.408190e-01
+6,combo_biasn0p05_unifsym0p1,Bias (−) + Uniform,combo_bias_neg_unif,5.000000e-02,1.000000e-01,6.736571e-02,6.184783e-03,7.050907e-02,1.191016e-01
+6,combo_biasp0p02_gausss0p02,Bias (+) + Gaussian,combo_bias_pos_gauss,2.000000e-02,2.000000e-02,3.140354e-02,2.062941e-03,3.367626e-02,6.893547e-02
+6,combo_biasp0p02_gausss0p05,Bias (+) + Gaussian,combo_bias_pos_gauss,2.000000e-02,5.000000e-02,4.085111e-02,5.532760e-03,4.543971e-02,1.032593e-01
+6,combo_biasp0p05_gausss0p02,Bias (+) + Gaussian,combo_bias_pos_gauss,5.000000e-02,2.000000e-02,7.068261e-02,6.777988e-03,7.392553e-02,1.270720e-01
+6,combo_biasp0p05_gausss0p05,Bias (+) + Gaussian,combo_bias_pos_gauss,5.000000e-02,5.000000e-02,7.623674e-02,7.110011e-03,8.241518e-02,1.685535e-01
+6,combo_biasp0p02_unifsym0p05,Bias (+) + Uniform,combo_bias_pos_unif,2.000000e-02,5.000000e-02,2.920429e-02,2.145279e-03,3.081703e-02,5.500983e-02
+6,combo_biasp0p02_unifsym0p1,Bias (+) + Uniform,combo_bias_pos_unif,2.000000e-02,1.000000e-01,3.689572e-02,4.149592e-03,4.225201e-02,1.039192e-01
+6,combo_biasp0p05_unifsym0p05,Bias (+) + Uniform,combo_bias_pos_unif,5.000000e-02,5.000000e-02,7.773004e-02,8.715026e-03,8.031314e-02,1.261052e-01
+6,combo_biasp0p05_unifsym0p1,Bias (+) + Uniform,combo_bias_pos_unif,5.000000e-02,1.000000e-01,6.804233e-02,4.432784e-03,7.115938e-02,1.253852e-01
+6,combo_gausss0p02_unifsym0p05,Gaussian + Uniform,combo_gauss_unif,2.000000e-02,5.000000e-02,2.036505e-02,1.842474e-03,2.284504e-02,5.676726e-02
+6,combo_gausss0p02_unifsym0p1,Gaussian + Uniform,combo_gauss_unif,2.000000e-02,1.000000e-01,2.640667e-02,2.771713e-03,3.010151e-02,7.705255e-02
+6,combo_gausss0p05_unifsym0p05,Gaussian + Uniform,combo_gauss_unif,5.000000e-02,5.000000e-02,3.727560e-02,5.062435e-03,4.393854e-02,1.200901e-01
+6,combo_gausss0p05_unifsym0p1,Gaussian + Uniform,combo_gauss_unif,5.000000e-02,1.000000e-01,4.504859e-02,1.016241e-02,5.521388e-02,1.514754e-01
+6,gauss_s0p02,Gaussian noise,gauss,2.000000e-02,,1.678162e-02,1.697641e-03,1.849235e-02,3.942479e-02
+6,gauss_s0p05,Gaussian noise,gauss,5.000000e-02,,4.243617e-02,1.169134e-02,5.309880e-02,1.524904e-01
+6,gauss_s0p1,Gaussian noise,gauss,1.000000e-01,,6.827897e-02,2.057865e-02,8.663683e-02,2.410076e-01
+6,sin_error,No error,none,,,2.861854e-17,5.723708e-17,6.474649e-17,2.577685e-16
+6,unif_neg_0p05,Uniform noise (negative only),unif_neg,5.000000e-02,,3.339223e-02,1.977867e-03,3.470399e-02,5.549203e-02
+6,unif_neg_0p1,Uniform noise (negative only),unif_neg,1.000000e-01,,7.123870e-02,1.109354e-02,7.598029e-02,1.366970e-01
+6,unif_neg_0p2,Uniform noise (negative only),unif_neg,2.000000e-01,,1.321986e-01,8.382491e-03,1.374097e-01,2.166010e-01
+6,unif_pos_0p05,Uniform noise (positive only),unif_pos,5.000000e-02,,3.568886e-02,2.375240e-03,3.773026e-02,6.759527e-02
+6,unif_pos_0p1,Uniform noise (positive only),unif_pos,1.000000e-01,,7.158711e-02,3.529133e-03,7.467663e-02,1.214999e-01
+6,unif_pos_0p2,Uniform noise (positive only),unif_pos,2.000000e-01,,1.430407e-01,1.286208e-02,1.504335e-01,2.714360e-01
+6,unif_sym_0p05,Uniform noise (symmetric),unif_sym,5.000000e-02,,1.364213e-02,7.801123e-04,1.506869e-02,3.400401e-02
+6,unif_sym_0p1,Uniform noise (symmetric),unif_sym,1.000000e-01,,2.618379e-02,4.566661e-03,3.275708e-02,1.055023e-01
+6,unif_sym_0p2,Uniform noise (symmetric),unif_sym,2.000000e-01,,5.043664e-02,2.252097e-02,6.450529e-02,1.748505e-01
+6,heter_A1-biasN_A2-biasN_A3-none_A4-unifS_A5-unifP_A6-biasP_tag-gauss0,unknown,unknown,,,8.034699e-02,7.108078e-03,8.402779e-02,1.444297e-01
+6,heter_A1-biasN_A2-biasP_A3-biasN_A4-gaussN_A5-gauss0_A6-none_tag-none,unknown,unknown,,,1.208633e-01,5.006169e-02,1.335827e-01,2.881028e-01
+6,heter_A1-biasN_A2-biasP_A3-gaussP_A4-gaussP_A5-gaussP_A6-unifP_tag-unifN,unknown,unknown,,,9.448153e-02,1.184956e-02,9.893260e-02,1.636512e-01
+6,heter_A1-biasN_A2-gauss0_A3-biasN_A4-none_A5-unifN_A6-biasP_tag-biasN,unknown,unknown,,,1.513765e-01,2.515849e-02,1.560701e-01,2.285058e-01
+6,heter_A1-biasN_A2-gaussN_A3-biasP_A4-gaussP_A5-unifS_A6-unifP_tag-unifN,unknown,unknown,,,9.562066e-02,8.231280e-03,9.870125e-02,1.588916e-01
+6,heter_A1-biasN_A2-gaussN_A3-unifP_A4-gaussP_A5-biasN_A6-gaussP_tag-unifS,unknown,unknown,,,7.619338e-02,8.825044e-03,7.987268e-02,1.464121e-01
+6,heter_A1-biasN_A2-none_A3-gaussP_A4-unifP_A5-gaussN_A6-unifP_tag-gaussP,unknown,unknown,,,7.916436e-02,7.311959e-03,8.582451e-02,1.768952e-01
+6,heter_A1-biasN_A2-none_A3-unifS_A4-gaussN_A5-gaussN_A6-unifS_tag-unifN,unknown,unknown,,,1.019446e-01,9.082568e-03,1.051804e-01,1.724312e-01
+6,heter_A1-biasN_A2-unifN_A3-biasP_A4-gaussP_A5-unifP_A6-unifS_tag-unifN,unknown,unknown,,,9.541153e-02,9.636687e-03,9.889489e-02,1.763572e-01
+6,heter_A1-biasN_A2-unifN_A3-unifS_A4-gauss0_A5-unifS_A6-unifN_tag-biasN,unknown,unknown,,,1.281756e-01,6.048877e-03,1.320645e-01,2.165183e-01
+6,heter_A1-biasN_A2-unifP_A3-none_A4-gaussP_A5-unifS_A6-gaussN_tag-none,unknown,unknown,,,6.760832e-02,1.393934e-02,7.435035e-02,1.539533e-01
+6,heter_A1-biasP_A2-gauss0_A3-unifS_A4-unifP_A5-unifP_A6-biasN_tag-unifP,unknown,unknown,,,1.172248e-01,8.015631e-03,1.217330e-01,2.040124e-01
+6,heter_A1-biasP_A2-gaussP_A3-biasN_A4-biasP_A5-gauss0_A6-gaussP_tag-gaussP,unknown,unknown,,,8.566849e-02,1.685842e-02,9.409601e-02,1.810670e-01
+6,heter_A1-biasP_A2-gaussP_A3-gauss0_A4-biasN_A5-unifP_A6-gaussP_tag-gaussN,unknown,unknown,,,7.296555e-02,1.216442e-02,7.971632e-02,1.693949e-01
+6,heter_A1-biasP_A2-gaussP_A3-none_A4-gaussN_A5-unifP_A6-unifP_tag-none,unknown,unknown,,,8.318377e-02,9.674886e-03,8.820196e-02,1.650136e-01
+6,heter_A1-biasP_A2-unifS_A3-gaussP_A4-gaussP_A5-gauss0_A6-gaussN_tag-biasP,unknown,unknown,,,1.327194e-01,5.912509e-03,1.344527e-01,1.925270e-01
+6,heter_A1-biasP_A2-unifS_A3-none_A4-gauss0_A5-biasN_A6-gaussP_tag-unifP,unknown,unknown,,,1.070245e-01,5.261441e-03,1.107773e-01,1.861935e-01
+6,heter_A1-gauss0_A2-biasN_A3-gaussN_A4-biasN_A5-gaussN_A6-unifS_tag-unifN,unknown,unknown,,,1.184192e-01,1.134669e-02,1.239403e-01,1.987253e-01
+6,heter_A1-gauss0_A2-biasP_A3-biasN_A4-biasP_A5-biasP_A6-biasN_tag-none,unknown,unknown,,,1.074002e-01,1.869370e-02,1.154825e-01,1.960670e-01
+6,heter_A1-gauss0_A2-gauss0_A3-unifN_A4-biasN_A5-biasN_A6-gaussP_tag-gaussN,unknown,unknown,,,9.358933e-02,1.356111e-02,1.017282e-01,2.071340e-01
+6,heter_A1-gauss0_A2-gaussN_A3-gauss0_A4-gaussN_A5-unifP_A6-unifN_tag-gauss0,unknown,unknown,,,6.320520e-02,2.191130e-02,7.795281e-02,2.108224e-01
+6,heter_A1-gauss0_A2-gaussN_A3-none_A4-unifN_A5-unifP_A6-gaussN_tag-unifP,unknown,unknown,,,7.919368e-02,7.646602e-03,8.271981e-02,1.405248e-01
+6,heter_A1-gauss0_A2-none_A3-biasP_A4-gauss0_A5-unifP_A6-unifP_tag-gauss0,unknown,unknown,,,6.864162e-02,5.659811e-03,7.426079e-02,1.554861e-01
+6,heter_A1-gauss0_A2-unifS_A3-biasN_A4-gaussN_A5-unifP_A6-unifS_tag-none,unknown,unknown,,,7.406098e-02,9.865142e-03,7.844929e-02,1.533846e-01
+6,heter_A1-gaussN_A2-biasP_A3-unifN_A4-biasP_A5-gaussN_A6-gaussP_tag-biasN,unknown,unknown,,,8.921075e-02,1.070416e-02,9.357192e-02,1.493467e-01
+6,heter_A1-gaussN_A2-gaussP_A3-unifP_A4-gaussP_A5-biasN_A6-unifN_tag-none,unknown,unknown,,,8.210035e-02,9.463244e-03,8.737323e-02,1.713617e-01
+6,heter_A1-gaussN_A2-gaussP_A3-unifP_A4-unifS_A5-gaussN_A6-unifS_tag-biasP,unknown,unknown,,,9.835935e-02,5.691016e-03,1.022129e-01,1.638190e-01
+6,heter_A1-gaussN_A2-unifN_A3-unifS_A4-biasN_A5-unifN_A6-gauss0_tag-none,unknown,unknown,,,8.283884e-02,1.071743e-02,8.512682e-02,1.264487e-01
+6,heter_A1-gaussN_A2-unifP_A3-biasN_A4-gaussN_A5-gaussP_A6-gaussN_tag-unifN,unknown,unknown,,,1.074498e-01,5.966987e-03,1.102814e-01,1.737717e-01
+6,heter_A1-gaussP_A2-biasP_A3-biasN_A4-unifP_A5-none_A6-biasN_tag-gauss0,unknown,unknown,,,8.026169e-02,1.197359e-02,8.692348e-02,1.707982e-01
+6,heter_A1-gaussP_A2-biasP_A3-gauss0_A4-gaussN_A5-unifN_A6-gaussP_tag-biasP,unknown,unknown,,,1.372714e-01,1.518067e-02,1.411724e-01,2.176439e-01
+6,heter_A1-gaussP_A2-biasP_A3-none_A4-unifP_A5-none_A6-gauss0_tag-gauss0,unknown,unknown,,,6.643065e-02,7.478701e-03,7.330122e-02,1.596142e-01
+6,heter_A1-gaussP_A2-gauss0_A3-gaussP_A4-biasN_A5-unifS_A6-biasP_tag-unifN,unknown,unknown,,,8.422057e-02,1.219765e-02,9.250282e-02,1.850897e-01
+6,heter_A1-gaussP_A2-gaussN_A3-unifS_A4-unifP_A5-none_A6-biasP_tag-unifN,unknown,unknown,,,6.040841e-02,8.785517e-03,6.456078e-02,1.278552e-01
+6,heter_A1-gaussP_A2-gaussP_A3-gaussN_A4-unifP_A5-unifS_A6-unifP_tag-none,unknown,unknown,,,5.413920e-02,1.019060e-02,6.168719e-02,1.412240e-01
+6,heter_A1-none_A2-biasP_A3-unifN_A4-unifS_A5-biasP_A6-unifN_tag-biasN,unknown,unknown,,,1.260140e-01,2.784442e-02,1.352773e-01,2.252097e-01
+6,heter_A1-none_A2-gaussP_A3-biasN_A4-biasP_A5-gauss0_A6-unifN_tag-gauss0,unknown,unknown,,,7.498707e-02,7.648875e-03,8.048741e-02,1.551761e-01
+6,heter_A1-none_A2-gaussP_A3-biasN_A4-none_A5-gaussN_A6-biasP_tag-unifN,unknown,unknown,,,9.428886e-02,1.000861e-02,9.825366e-02,1.713903e-01
+6,heter_A1-none_A2-none_A3-biasN_A4-gaussN_A5-gauss0_A6-unifN_tag-unifS,unknown,unknown,,,5.941675e-02,7.355783e-03,6.299868e-02,1.202644e-01
+6,heter_A1-none_A2-unifN_A3-unifS_A4-biasN_A5-gaussN_A6-biasN_tag-none,unknown,unknown,,,8.799322e-02,2.027320e-02,9.526373e-02,1.834844e-01
+6,heter_A1-none_A2-unifP_A3-gaussN_A4-none_A5-biasP_A6-gauss0_tag-gaussN,unknown,unknown,,,7.735331e-02,2.084674e-02,8.631859e-02,1.738256e-01
+6,heter_A1-none_A2-unifP_A3-none_A4-none_A5-biasN_A6-gaussP_tag-unifP,unknown,unknown,,,7.899731e-02,6.337485e-03,8.252624e-02,1.423562e-01
+6,heter_A1-unifN_A2-biasN_A3-none_A4-unifP_A5-unifP_A6-none_tag-biasP,unknown,unknown,,,1.033297e-01,2.141334e-02,1.198916e-01,2.738776e-01
+6,heter_A1-unifN_A2-gaussP_A3-gaussN_A4-unifP_A5-unifP_A6-unifS_tag-gaussP,unknown,unknown,,,9.846546e-02,2.130468e-02,1.115440e-01,2.427587e-01
+6,heter_A1-unifN_A2-gaussP_A3-unifS_A4-biasN_A5-none_A6-gauss0_tag-biasP,unknown,unknown,,,7.839560e-02,1.291467e-02,8.332057e-02,1.628892e-01
+6,heter_A1-unifN_A2-unifS_A3-unifS_A4-none_A5-unifP_A6-biasN_tag-unifS,unknown,unknown,,,6.135342e-02,2.001605e-02,7.267874e-02,1.777423e-01
+6,heter_A1-unifP_A2-biasP_A3-gauss0_A4-gaussN_A5-unifP_A6-none_tag-gauss0,unknown,unknown,,,7.007561e-02,1.036672e-02,7.598818e-02,1.547675e-01
+6,heter_A1-unifP_A2-gaussP_A3-gaussN_A4-unifP_A5-gaussP_A6-gauss0_tag-unifN,unknown,unknown,,,6.521497e-02,6.587612e-03,7.150347e-02,1.428439e-01
+6,heter_A1-unifP_A2-gaussP_A3-none_A4-unifP_A5-unifN_A6-unifP_tag-biasP,unknown,unknown,,,1.157882e-01,2.316545e-02,1.222084e-01,2.069231e-01
+6,heter_A1-unifP_A2-none_A3-unifP_A4-none_A5-gauss0_A6-biasP_tag-unifN,unknown,unknown,,,6.005002e-02,1.280025e-02,7.005220e-02,1.666536e-01
+6,heter_A1-unifS_A2-gaussN_A3-unifN_A4-biasP_A5-unifS_A6-unifN_tag-gaussN,unknown,unknown,,,9.369772e-02,9.839616e-03,1.001855e-01,1.927152e-01
+6,heter_A1-unifS_A2-gaussP_A3-biasP_A4-gaussP_A5-unifS_A6-unifN_tag-biasN,unknown,unknown,,,7.786351e-02,1.018182e-02,8.267064e-02,1.670794e-01
+6,heter_A1-unifS_A2-gaussP_A3-unifN_A4-biasP_A5-biasN_A6-gaussP_tag-unifS,unknown,unknown,,,5.806585e-02,7.595657e-03,6.322869e-02,1.355401e-01
+6,heter_A1-unifS_A2-none_A3-none_A4-gaussN_A5-unifP_A6-biasN_tag-none,unknown,unknown,,,6.513485e-02,5.225501e-03,7.215273e-02,1.755001e-01
+6,heter_A1-unifS_A2-none_A3-unifN_A4-biasP_A5-gauss0_A6-gaussP_tag-biasN,unknown,unknown,,,1.059803e-01,1.711423e-02,1.140015e-01,2.118683e-01
+6,heter_A1-unifS_A2-none_A3-unifP_A4-gauss0_A5-gaussN_A6-gaussN_tag-none,unknown,unknown,,,5.196769e-02,6.104694e-03,5.624571e-02,1.286885e-01
+6,heter_A1-unifS_A2-unifN_A3-biasP_A4-gaussP_A5-unifP_A6-biasP_tag-gauss0,unknown,unknown,,,7.010048e-02,6.519691e-03,7.552012e-02,1.547419e-01
+6,heter_A1-unifS_A2-unifN_A3-unifS_A4-gaussP_A5-unifP_A6-unifS_tag-unifP,unknown,unknown,,,8.778645e-02,1.189315e-02,9.620168e-02,2.011226e-01
+6,heter_A1-unifS_A2-unifP_A3-biasP_A4-gaussN_A5-unifS_A6-unifP_tag-biasN,unknown,unknown,,,4.772335e-02,1.048297e-02,5.730773e-02,1.411692e-01
+6,heter_A1-unifS_A2-unifS_A3-unifN_A4-unifP_A5-unifS_A6-unifP_tag-unifN,unknown,unknown,,,9.226113e-02,7.532081e-03,9.702445e-02,1.798361e-01
